@@ -2,9 +2,7 @@
 
 My name is Mell Campos!  
 I'm currently a student at AMF, deeply interested in **UX/UI**, **front-end development**, **technical assistance**, and **data science**.  
-I'm in my fifth semester of the **Information Systems** course and super excited about **creative solutions** and **active learning**. ✨
-
-I love turning ideas into intuitive and engaging experiences — whether it's through design, code, or collaboration.
+I'm in my fifth semester of the **Information Systems** course and super excited about **creative solutions** and **active learning**. 
 
 
 ## 🛠 Experience and Tools <3
@@ -24,8 +22,6 @@ I love turning ideas into intuitive and engaging experiences — whether it's th
 
 </div>
 
----
-
 ## 🌐 Socials <3
 
 <div align="left">
@@ -36,11 +32,9 @@ I love turning ideas into intuitive and engaging experiences — whether it's th
 
 </div>
 
----
 
 ## ✨ Fun Facts
 
----
 
 Thanks for stopping by! Let's build something amazing together 💻🌈
 
