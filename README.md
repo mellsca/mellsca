@@ -1,7 +1,52 @@
 # Hello <3
-My name is Mell Campos, I'm currently a student at AMF who's very interested in UX/UI, front-end development, technical assistance and data science. I'm on my fifth semester of the Information Systems course, and I'm very exited about creative solutions and active learning. 
 
-## Experience and Tools <3
+My name is Mell Campos!  
+I'm currently a student at AMF, deeply interested in **UX/UI**, **front-end development**, **technical assistance**, and **data science**.  
+I'm in my fifth semester of the **Information Systems** course and super excited about **creative solutions** and **active learning**. ✨
 
-## Socials <3
+I love turning ideas into intuitive and engaging experiences — whether it's through design, code, or collaboration.
+
+---
+
+## 🛠 Experience and Tools <3
+
+<div align="left">
+
+<!-- Linguagens e Ferramentas -->
+<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></a>
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
+<a href="https://dbeaver.io/" target="_blank"><img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white"/></a>
+<a href="https://www.canva.com/" target="_blank"><img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/></a>
+<a href="https://www.notion.so/" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
+<a href="https://www.sololearn.com/" target="_blank"><img src="https://img.shields.io/badge/SoloLearn-3a464b?style=for-the-badge&logo=sololearn&logoColor=white"/></a>
+
+</div>
+
+---
+
+## 🌐 Socials <3
+
+<div align="left">
+
+<a href="mailto:seuemail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/seuusuario"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/seulinkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+</div>
+
+---
+
+## ✨ Fun Facts
+
+- I'm always doodling ideas in my notebook ✏️  
+- I love learning by building and exploring new perspectives  
+- Currently diving deeper into accessibility and human-centered design 💡
+
+---
+
+Thanks for stopping by! Let's build something amazing together 💻🌈
+
 
