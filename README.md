@@ -6,7 +6,6 @@ I'm in my fifth semester of the **Information Systems** course and super excited
 
 I love turning ideas into intuitive and engaging experiences — whether it's through design, code, or collaboration.
 
----
 
 ## 🛠 Experience and Tools <3
 
@@ -31,19 +30,15 @@ I love turning ideas into intuitive and engaging experiences — whether it's th
 
 <div align="left">
 
-<a href="mailto:seuemail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/seuusuario"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/seulinkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:mellcmps27@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/mellsca"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mell-santos-de-campos-08a0b2243"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 </div>
 
 ---
 
 ## ✨ Fun Facts
-
-- I'm always doodling ideas in my notebook ✏️  
-- I love learning by building and exploring new perspectives  
-- Currently diving deeper into accessibility and human-centered design 💡
 
 ---
 
