@@ -1,10 +1,23 @@
-# Hello <3
+<table>
+  <tr>
+    <td width="120">
+      <img src="https://64.media.tumblr.com/87f89f0dd03a1c0b072c3e413b6f5e4d/e87f7b03b3b83c71-3f/s400x600/17e437fb15bb9fdd1382208f6e94bfb6f52270fb.gifv" alt="gif fofo" width="100" />
+    </td>
+    <td>
+      <h1>Hello <3</h1>
+      <p>
+      My name is Mell Campos!  
+      I'm currently a student at AMF, deeply interested in <strong>UX/UI</strong>, <strong>front-end development</strong>, <strong>technical assistance</strong>, and <strong>data science</strong>.<br>
+      I'm in my fifth semester of the <strong>Information Systems</strong> course and super excited about <strong>creative solutions</strong> and <strong>active learning</strong>. ✨
+      </p>
+    </td>
+  </tr>
+</table>
 
-My name is Mell Campos!  
-I'm currently a student at AMF, deeply interested in **UX/UI**, **front-end development**, **technical assistance**, and **data science**.  
-I'm in my fifth semester of the **Information Systems** course and super excited about **creative solutions** and **active learning**. 
+<p align="center">
+  <img src="https://64.media.tumblr.com/8f7f3f1d4904f119e290dc7be84a49c4/abd43fd6b15dc4e8-3c/s2048x3072/6a241bbf122366417564548be82009fd80cb5d28.pnj" alt="linha rosa decorativa" height ="10px" width="100%" />
+</p>
 
-<hr style="border: none; border-top: 2px solid #f472b6; margin: 24px 0;" />
 
 ## Experience and Tools <3
 <div align="left">
@@ -21,13 +34,17 @@ I'm in my fifth semester of the **Information Systems** course and super excited
 <a href="https://www.sololearn.com/" target="_blank"><img src="https://img.shields.io/badge/SoloLearn-3a464b?style=for-the-badge&logo=sololearn&logoColor=white"/></a>
 </div>
 
----
+<p align="center">
+  <img src="https://64.media.tumblr.com/8f7f3f1d4904f119e290dc7be84a49c4/abd43fd6b15dc4e8-3c/s2048x3072/6a241bbf122366417564548be82009fd80cb5d28.pnj" alt="linha rosa decorativa" height ="10px" width="100%" />
+</p>
 
 <div align="center">
   <img src="https://64.media.tumblr.com/71efebce46f7e7434e1196317bb94b14/8c6e4d4d3fb09681-b1/s250x400/66af748c082d13ddac826d9e41d6759f6cebc03d.gifv" alt="cute gif" width="220" />
 </div>
 
----
+<p align="center">
+  <img src="https://64.media.tumblr.com/8f7f3f1d4904f119e290dc7be84a49c4/abd43fd6b15dc4e8-3c/s2048x3072/6a241bbf122366417564548be82009fd80cb5d28.pnj" alt="linha rosa decorativa" height ="10px" width="100%" />
+</p>
 
 ## Socials <3
 <div align="left">
@@ -37,11 +54,13 @@ I'm in my fifth semester of the **Information Systems** course and super excited
 <a href="https://www.linkedin.com/in/mell-santos-de-campos-08a0b2243"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 
----
+<p align="center">
+  <img src="https://64.media.tumblr.com/8f7f3f1d4904f119e290dc7be84a49c4/abd43fd6b15dc4e8-3c/s2048x3072/6a241bbf122366417564548be82009fd80cb5d28.pnj" alt="linha rosa decorativa" height ="10px" width="100%" />
+</p>
 
-## Fun Facts <3
-
----
 Thanks for stopping by! Let's build something amazing together 💻🌈
+<p align="center">
+  <img src="https://64.media.tumblr.com/8f7f3f1d4904f119e290dc7be84a49c4/abd43fd6b15dc4e8-3c/s2048x3072/6a241bbf122366417564548be82009fd80cb5d28.pnj" alt="linha rosa decorativa" height ="10px" width="100%" />
+</p>
 
 
